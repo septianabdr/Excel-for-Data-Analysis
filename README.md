@@ -35,6 +35,7 @@ Output akhir berupa **Dashboard interaktif** yang dapat digunakan untuk mengambi
   - Persentase otomatis jika filter gender dipilih (misal: laki-laki = 100%)
 
 ## 📂 Struktur Folder
+```
 Excel-for-Data-Analysis/
 ├── data/
 │   └── bike_sales_100k_raw_data.csv
@@ -43,7 +44,7 @@ Excel-for-Data-Analysis/
 ├── preview/
 │   └── Dashboard.png
 ├── README.md
-
+```
 ## 🛠 Alat yang Digunakan
 
 - **Microsoft Excel**:
@@ -57,7 +58,7 @@ Excel-for-Data-Analysis/
   - Grafik batang (Kinerja Kategori)
 
 ## 📊 Dashboard
-![Dashboard Penjualan](preview/dashboard.png)
+![Dashboard Penjualan](preview/Dashboard.png)
 
 ---
 Feel free to fork, clone, or contribute! 🚀
